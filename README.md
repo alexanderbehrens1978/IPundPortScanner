@@ -3,7 +3,7 @@ IP und Port Scanner
 
 Ein einfacher IP und Port Scanner in Java geschrieben.
 
-Ideen kommen von http://java-beginners.de
+Ideen kommen von https://javabeginners.de
 
 Was schon geht:
 
